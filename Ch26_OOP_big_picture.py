@@ -49,6 +49,12 @@ OOP:                 Whenever we call a function attached to a class in this fas
                      This implied subject is passed by Ptyhon using a specia lfirst argument in the 
                      method called 'self'. 
 
+
+
+__init__             https://micropyramid.com/blog/
+                     understand-self-and-__init__-method-in-python-class/
+                     - Looks like the initial attributes of the class that are input by the user
+                     when first creating an instance of the clas object. 
 '''
 
 
